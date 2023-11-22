@@ -17,6 +17,6 @@ public class GooseAdapter implements Quackable{
     }
     @Override
     public String toString() {
-        return "Goose pretending to be a Duck";
+        return "Goose pretending to be a Duck!";
     }
 }
